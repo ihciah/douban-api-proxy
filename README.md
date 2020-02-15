@@ -17,3 +17,5 @@
 ## 声明
 
 本代码中的豆瓣数据解密代码取自 [SergioJune/Spider-Crack-JS](https://github.com/SergioJune/Spider-Crack-JS)。
+
+![screen-shot](.github/screen.jpg)
